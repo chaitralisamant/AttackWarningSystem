@@ -1,4 +1,6 @@
-# Detection and Warning Methods Towards Human-AI Collaboration To Mitigate Physical-World Attacks
+# Attack Warning System
+
+"Detection and Warnings Towards Human-AI Collaboration For Physical-World Attack Mitigation"
 
 This project was part of Penn State College of IST's NSF-REU site for Summer 2023. This repo contains all code, data, and images used for this project. The associated paper's Arxiv link will be attached below soon.
 
