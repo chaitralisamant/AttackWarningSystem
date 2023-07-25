@@ -1,7 +1,6 @@
-# Adversarial Attack Warning System
-Penn State REU Program 2023 P1 Project.
+# Detection and Warning Methods Towards Human-AI Collaboration To Mitigate Physical-World Attacks
 
-This repo contains all code, data, and images used for this project. The associated paper's Arxiv link will be attached below soon.
+This project was part of Penn State College of IST's NSF-REU site for Summer 2023. This repo contains all code, data, and images used for this project. The associated paper's Arxiv link will be attached below soon.
 
 ## Files Explained:
 
@@ -14,6 +13,7 @@ I'm unable to upload the custom datasets onto Github, unfortunately. I can send 
 
 Warning Scenarios: There are 8 scenarios created for the warning system study. 
 
-Attack Classifiers: Code to create and train CNN models, associated with the .h5 files mentioned baove.
+Attack Classifiers: Code to create and train CNN models, associated with the .h5 files mentioned above.
 
-Please reach out by email if there are any issues or questions!
+Please reach out to me by email if there are any issues or questions! 
+- Chai Samant, Virginia Tech B.S. Computer Engineering ('26)
